@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipes website for the odin project
